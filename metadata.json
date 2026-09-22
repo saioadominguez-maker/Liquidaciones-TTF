@@ -1,0 +1,6 @@
+{
+  "name": "Liquidaciones de Artistas",
+  "description": "Portal de visualización y aceptación de liquidaciones de shows y conciertos para artistas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
